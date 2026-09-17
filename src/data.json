@@ -1,0 +1,38 @@
+{
+  "title": "Beautiful home with stunning views",
+  "rating": 4.92,
+  "reviews": 128,
+  "location": "Kanpur, Uttar Pradesh, India",
+  "type": "Entire home",
+  "host": "Alex",
+  "hostInitial": "A",
+  "guests": 6,
+  "beds": "3",
+  "bedsCount": 4,
+  "baths": "2",
+  "pricePerNight": 145,
+  "cleaningFee": 55,
+  "serviceFee": 82,
+  "description": "Relax in a bright, thoughtfully designed home with comfortable spaces, a fully equipped kitchen, and beautiful natural light. The property is ideal for a quiet getaway while still being close to local attractions and restaurants.",
+  "highlights": [
+    {"icon":"⌂","title":"Entire home","text":"You'll have the place to yourself."},
+    {"icon":"♢","title":"Self check-in","text":"Check yourself in with the keypad."},
+    {"icon":"★","title":"Great location","text":"95% of recent guests gave the location a 5-star rating."},
+    {"icon":"♥","title":"Great for remote work","text":"Fast Wi-Fi and a comfortable workspace."}
+  ],
+  "amenities": [
+    "Wi-Fi","Kitchen","Dedicated workspace","Free parking",
+    "TV","Air conditioning","Washer","Heating",
+    "Hair dryer","Smoke alarm","Fire extinguisher","Iron"
+  ],
+  "photos": [
+    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85",
+    "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=85",
+    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85"
+  ]
+}
